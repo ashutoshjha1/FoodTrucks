@@ -1,6 +1,6 @@
 # start from base
 FROM ubuntu:latest
-MAINTAINER Prakhar Srivastav <prakhar@prakhar.me>
+MAINTAINER Ashutosh Jha <ashutoshjha.com@gmail.com>
 
 # install system-wide deps for python and node
 RUN apt-get -yqq update
